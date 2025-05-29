@@ -4,7 +4,7 @@ root_project=lifesub-web
 namespace=dg0405-lifesub-ns
 
 # Container Registry Settings
-registry=arcdigitalgarage01.azurecr.io
+registry=acrdigitalgarage01.azurecr.io
 image_org=dg0405
 
 # Application Settings
